@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/time-anatomy/static/css/main.f855e6bc.css",
-    "main.js": "/time-anatomy/static/js/main.a2d2118c.js",
-    "static/js/453.59c27edf.chunk.js": "/time-anatomy/static/js/453.59c27edf.chunk.js",
-    "index.html": "/time-anatomy/index.html",
-    "main.f855e6bc.css.map": "/time-anatomy/static/css/main.f855e6bc.css.map",
-    "main.a2d2118c.js.map": "/time-anatomy/static/js/main.a2d2118c.js.map",
-    "453.59c27edf.chunk.js.map": "/time-anatomy/static/js/453.59c27edf.chunk.js.map"
+    "main.css": "/Time-Anatomy/static/css/main.f855e6bc.css",
+    "main.js": "/Time-Anatomy/static/js/main.58d577f9.js",
+    "static/js/453.59c27edf.chunk.js": "/Time-Anatomy/static/js/453.59c27edf.chunk.js",
+    "index.html": "/Time-Anatomy/index.html",
+    "main.f855e6bc.css.map": "/Time-Anatomy/static/css/main.f855e6bc.css.map",
+    "main.58d577f9.js.map": "/Time-Anatomy/static/js/main.58d577f9.js.map",
+    "453.59c27edf.chunk.js.map": "/Time-Anatomy/static/js/453.59c27edf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a2d2118c.js"
+    "static/js/main.58d577f9.js"
   ]
 }
